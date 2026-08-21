@@ -23,7 +23,7 @@ The simulated energy system consists of:
 The different components are connected through the PyPSA network and simulated using time-series data.
 
 ## Project Structure
-
+```text 
 ├── simulations/
 │   ├── sim01.py
 │   ├── sim02.py
