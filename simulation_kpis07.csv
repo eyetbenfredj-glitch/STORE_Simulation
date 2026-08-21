@@ -1,0 +1,9 @@
+KPI,Value
+Total PV Energy (kWh),1623133.1136129298
+Total Wind Energy (kWh),168352.63900747802
+Total Grid Energy (kWh),1039966.4191153047
+Total Load Supplied (kWh),2827620.0
+Average Battery SOC (kWh),190.75398293715776
+Battery Throughput (kWh),545665.2591112242
+Maximum Grid Power (kW),229.705809211609
+Renewable Energy Share (%),63.35666576910645
