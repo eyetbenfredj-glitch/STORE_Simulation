@@ -61,7 +61,7 @@ The different components are connected through the PyPSA network and simulated u
 │
 ├── data.py
 └── README.md
-
+```
 ## Simulations
 
 The `simulations/` directory contains the different simulation scenarios developed using PyPSA.
